@@ -1,3 +1,6 @@
+## Follow this [video](https://youtu.be/vL3a6eZSrTI) to understand concepts and do all the demos. 
+[Video](https://youtu.be/vL3a6eZSrTI)
+
 
 ## Validating Admission Policy - Kubernetes 1.26 lpha feature examples repo
 
