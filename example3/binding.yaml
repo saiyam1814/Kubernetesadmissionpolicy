@@ -4,8 +4,9 @@ metadata:
   name: "replicalimit-binding-test.example.com"
 spec:
   policyName: "replicalimit-policy.example.com"
-  paramsRef:
+  paramRef:
     name: "replica-limit-test.example.com"
+    namespace: default
   matchResources:
     namespaceSelector:
       matchLabels:
